@@ -1,2 +1,2 @@
-# **Telecom-Customer-Churn-Analytics**
+# **1.Customer Retention & Churn Analytics **
 End-to-end Telecom Customer Churn Analytics project using Python, SQL, and Power BI. Includes data cleaning, EDA, feature engineering, ML models, and an interactive BI dashboard for churn insights.
